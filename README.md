@@ -1,4 +1,4 @@
-# BlackJack vie
+# BlackJack vite
 
 los pasos para poder levantar el proyecto son los siguientes:
 
